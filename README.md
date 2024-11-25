@@ -1,5 +1,5 @@
 # Teste Analytics
-*Esse projeto é uma análise de um dataset de vendas simulado envolvendo Python, SQL, Pandas, PySpark, Excel e Scikit-Learn para Analytics.* O intuito é aplicar os conhecimentos de análise de dados para extrair insights do dataset.
+*Esse projeto é uma análise de um dataset de vendas simulado envolvendo Python, SQL, Pandas, PySpark, Excel e Scikit-Learn para Analytics.* O objetivo é aplicar os conhecimentos de análise de dados para extrair insights do dataset.
 
 # Parte 1
 A primeira parte se trata de usar o Python para o tratamento inicial dos dados e análises prévias não específicas.
