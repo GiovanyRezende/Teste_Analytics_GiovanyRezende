@@ -329,7 +329,7 @@ resultado.show()
 Se quisermos criar um banco de dados, podemos fazer um Modelo Conceitual e criar o Modelo Físico. Nesse projeto, foi utilizado o SQLite.
 
 Primeiramente, fazemos um Modelo Conceitual para um banco de dados normalizado:
-
+![image](https://github.com/user-attachments/assets/8a1df836-cd53-4947-b6bf-5fb0716c74f8)
 
 Fazemos o Modelo Lógico no Python usando sqlite3 e o novamente o Pandas como base, utilizando tratamento de exceção para evitar possíveis falhas na criação:
 ```
