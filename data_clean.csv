@@ -1,0 +1,458 @@
+ID-Produto;Produto;Categoria;Data_Venda;Custo;Quantidade
+1;LG K10 TV Power;Celulares;2023-10-04;345.0;6
+2;Geladeira Duplex;Eletrodomésticos;2023-01-01;712.0;8
+3;Lavadora 11 Kg;Eletrodomésticos;2023-02-02;390.0;3
+4;Lavadora 11 Kg;Eletrodomésticos;2023-03-03;200.0;9
+5;Lavadora 11 Kg;Eletrodomésticos;2023-04-04;234.0;5
+6;Lavadora 11 Kg;Eletrodomésticos;2023-05-04;90.0;4
+7;Geladeira Duplex;Eletrodomésticos;2023-06-04;134.0;4
+8;Geladeira Duplex;Eletrodomésticos;2023-07-04;800.0;3
+9;Geladeira Duplex;Eletrodomésticos;2023-08-04;400.0;1
+10;Geladeira Duplex;Eletrodomésticos;2023-09-04;600.0;6
+11;Geladeira Duplex;Eletrodomésticos;2023-09-04;560.0;8
+12;Geladeira Duplex;Eletrodomésticos;2023-11-04;790.0;2
+13;Geladeira Duplex;Eletrodomésticos;2023-11-04;790.0;9
+14;Geladeira Duplex;Eletrodomésticos;2023-12-04;790.0;2
+15;Geladeira Duplex;Eletrodomésticos;2023-12-04;790.0;7
+16;Lavadora 11 Kg;Eletrodomésticos;2023-01-02;120.0;2
+17;Lavadora 11 Kg;Eletrodomésticos;2023-02-02;120.0;3
+18;Lavadora 11 Kg;Eletrodomésticos;2023-03-02;120.0;3
+19;Lavadora 11 Kg;Eletrodomésticos;2023-04-02;120.0;5
+20;Lavadora 11 Kg;Eletrodomésticos;2023-05-02;120.0;4
+21;Lavadora 11 Kg;Eletrodomésticos;2023-06-02;120.0;6
+22;Lavadora 11 Kg;Eletrodomésticos;2023-07-02;120.0;7
+23;Lavadora 11 Kg;Eletrodomésticos;2023-08-02;120.0;7
+24;Lavadora 11 Kg;Eletrodomésticos;2023-09-02;120.0;7
+25;Lavadora 11 Kg;Eletrodomésticos;2023-10-02;120.0;3
+26;Lavadora 11 Kg;Eletrodomésticos;2023-11-02;120.0;3
+27;Lavadora 11 Kg;Eletrodomésticos;2023-12-02;120.0;3
+28;Geladeira Duplex;Eletrodomésticos;2023-01-02;120.0;8
+29;Geladeira Duplex;Eletrodomésticos;2023-02-02;120.0;9
+30;Geladeira Duplex;Eletrodomésticos;2023-03-02;120.0;8
+31;Geladeira Duplex;Eletrodomésticos;2023-04-02;120.0;7
+32;Geladeira Duplex;Eletrodomésticos;2023-05-02;120.0;6
+33;Geladeira Duplex;Eletrodomésticos;2023-06-02;120.0;9
+34;Geladeira Duplex;Eletrodomésticos;2023-07-02;120.0;4
+35;Geladeira Duplex;Eletrodomésticos;2023-08-02;120.0;9
+36;Geladeira Duplex;Eletrodomésticos;2023-09-02;120.0;6
+37;Geladeira Duplex;Eletrodomésticos;2023-10-02;120.0;3
+38;Geladeira Duplex;Eletrodomésticos;2023-11-02;120.0;5
+39;Geladeira Duplex;Eletrodomésticos;2023-12-02;120.0;8
+40;Notebook Dell 8 GB;Eletrônicos;2023-01-01;120.0;1
+41;Notebook Dell 8 GB;Eletrônicos;2023-02-01;120.0;1
+42;Notebook Dell 8 GB;Eletrônicos;2023-03-01;120.0;7
+43;Notebook Dell 8 GB;Eletrônicos;2023-04-01;120.0;1
+44;Notebook Dell 8 GB;Eletrônicos;2023-05-01;120.0;6
+45;Notebook Dell 8 GB;Eletrônicos;2023-06-01;120.0;2
+46;Notebook Dell 8 GB;Eletrônicos;2023-07-01;120.0;8
+47;Notebook Dell 8 GB;Eletrônicos;2023-08-01;120.0;2
+48;Notebook Dell 8 GB;Eletrônicos;2023-09-01;120.0;8
+49;Notebook Dell 8 GB;Eletrônicos;2023-10-01;120.0;9
+50;Desktop 32 GB;Eletrônicos;2023-11-01;120.0;3
+51;Desktop 32 GB;Eletrônicos;2023-12-01;120.0;3
+52;Desktop 32 GB;Eletrônicos;2023-01-02;120.0;7
+53;Desktop 32 GB;Eletrônicos;2023-02-02;120.0;3
+54;Desktop 32 GB;Eletrônicos;2023-03-02;120.0;7
+55;Desktop 32 GB;Eletrônicos;2023-04-02;120.0;5
+56;Desktop 32 GB;Eletrônicos;2023-05-02;120.0;8
+57;Desktop 32 GB;Eletrônicos;2023-06-02;120.0;8
+58;Desktop 32 GB;Eletrônicos;2023-07-02;120.0;6
+59;Desktop 32 GB;Eletrônicos;2023-08-02;120.0;5
+60;Desktop HP 16 GB;Eletrônicos;2023-09-02;120.0;1
+61;Desktop HP 16 GB;Eletrônicos;2023-10-02;120.0;5
+62;Desktop HP 16 GB;Eletrônicos;2023-11-02;120.0;1
+63;Desktop HP 16 GB;Eletrônicos;2023-12-02;120.0;2
+64;Micro-Ondas;Eletrodomésticos;2023-01-01;120.0;7
+65;Grill;Eletrodomésticos;2023-02-01;120.0;7
+66;Micro-Ondas;Eletrodomésticos;2023-03-01;120.0;4
+67;Forno-Micro-Ondas;Eletrodomésticos;2023-04-01;120.0;8
+68;Micro-Ondas;Eletrodomésticos;2023-05-01;120.0;5
+69;Micro-Ondas;Eletrodomésticos;2023-06-01;120.0;1
+70;Micro-Ondas;Eletrodomésticos;2023-07-01;120.0;2
+71;Micro-Ondas;Eletrodomésticos;2023-08-01;120.0;9
+72;Micro-Ondas;Eletrodomésticos;2023-09-01;120.0;8
+73;Micro-Ondas;Eletrodomésticos;2023-10-01;120.0;6
+74;Micro-Ondas;Eletrodomésticos;2023-11-01;120.0;9
+75;Micro-Ondas;Eletrodomésticos;2023-12-01;120.0;5
+76;Micro-Ondas;Eletrodomésticos;2023-01-02;120.0;3
+77;Micro-Ondas;Eletrodomésticos;2023-02-02;120.0;7
+78;Grill;Eletrodomésticos;2023-03-02;120.0;6
+79;Grill;Eletrodomésticos;2023-04-02;120.0;4
+80;Grill;Eletrodomésticos;2023-05-02;120.0;5
+81;Micro-Ondas;Eletrodomésticos;2023-06-02;120.0;4
+82;Micro-Ondas;Eletrodomésticos;2023-07-02;120.0;2
+83;Forno-Micro-Ondas;Eletrodomésticos;2023-08-02;120.0;5
+84;Forno-Micro-Ondas;Eletrodomésticos;2023-09-02;120.0;7
+85;Forno-Micro-Ondas;Eletrodomésticos;2023-10-02;120.0;7
+86;Forno-Micro-Ondas;Eletrodomésticos;2023-11-02;120.0;4
+87;Forno-Micro-Ondas;Eletrodomésticos;2023-12-02;120.0;4
+88;Fritadeira;Eletroportáteis;2023-01-02;120.0;5
+89;Ar Condicionado;Eletrodomésticos;2023-02-02;120.0;6
+90;Aspirador;Eletroportáteis;2023-03-02;120.0;2
+91;Ar Condicionado;Eletrodomésticos;2023-04-02;120.0;1
+92;Aspirador;Eletroportáteis;2023-05-02;120.0;9
+93;Ar Condicionado;Eletrodomésticos;2023-06-02;120.0;5
+94;Aspirador;Eletroportáteis;2023-07-02;120.0;4
+95;Ar Condicionado;Eletrodomésticos;2023-08-02;120.0;6
+96;Aspirador;Eletroportáteis;2023-09-02;120.0;4
+97;Ar Condicionado;Eletrodomésticos;2023-10-02;120.0;1
+98;Aspirador;Eletroportáteis;2023-11-02;120.0;4
+99;Aspirador;Eletroportáteis;2023-12-02;120.0;6
+100;Aspirador;Eletroportáteis;2023-01-02;120.0;5
+101;Aspirador;Eletroportáteis;2023-02-02;120.0;1
+102;Aspirador;Eletroportáteis;2023-03-02;120.0;3
+103;Aspirador;Eletroportáteis;2023-04-02;120.0;1
+104;Aspirador;Eletroportáteis;2023-05-02;120.0;3
+105;Aspirador;Eletroportáteis;2023-06-02;120.0;1
+106;Aspirador;Eletroportáteis;2023-07-02;120.0;1
+107;Aspirador;Eletroportáteis;2023-08-02;120.0;1
+108;Aspirador;Eletroportáteis;2023-09-02;120.0;2
+109;Aspirador;Eletroportáteis;2023-10-02;120.0;6
+110;Aspirador;Eletroportáteis;2023-11-02;120.0;2
+111;Aspirador;Eletroportáteis;2023-12-02;120.0;1
+112;Impressora Deskjet;Eletrônicos;2023-01-02;120.0;8
+113;Impressora Deskjet;Eletrônicos;2023-02-02;120.0;9
+114;Impressora Deskjet;Eletrônicos;2023-03-02;120.0;6
+115;Impressora Deskjet;Eletrônicos;2023-04-02;120.0;4
+116;Impressora Deskjet;Eletrônicos;2023-05-02;120.0;9
+117;Impressora Deskjet;Eletrônicos;2023-06-02;120.0;3
+118;Impressora Deskjet;Eletrônicos;2023-07-02;120.0;1
+119;Impressora Deskjet;Eletrônicos;2023-08-02;120.0;5
+120;Impressora Deskjet;Eletrônicos;2023-09-02;120.0;1
+121;Impressora Deskjet;Eletrônicos;2023-10-02;120.0;6
+122;Impressora Deskjet;Eletrônicos;2023-11-02;120.0;7
+123;Impressora Deskjet;Eletrônicos;2023-12-02;120.0;4
+124;Secadora Vapor;Eletrodomésticos;2023-01-02;120.0;6
+125;Secadora Vapor;Eletrodomésticos;2023-02-02;120.0;1
+126;Secadora Vapor;Eletrodomésticos;2023-03-02;120.0;7
+127;Secadora Vapor;Eletrodomésticos;2023-04-02;120.0;7
+128;Secadora Vapor;Eletrodomésticos;2023-05-02;120.0;5
+129;Secadora Vapor;Eletrodomésticos;2023-06-02;120.0;9
+130;Secadora Vapor;Eletrodomésticos;2023-07-02;120.0;9
+131;Secadora Vapor;Eletrodomésticos;2023-08-02;120.0;7
+132;Secadora Vapor;Eletrodomésticos;2023-09-02;120.0;8
+133;Secadora Vapor;Eletrodomésticos;2023-10-02;120.0;1
+134;Secadora Vapor;Eletrodomésticos;2023-11-02;120.0;1
+135;Secadora Vapor;Eletrodomésticos;2023-12-02;120.0;9
+136;Geladeira Duplex;Eletrodomésticos;2023-01-09;120.0;3
+137;Geladeira Duplex;Eletrodomésticos;2023-01-10;120.0;6
+138;Geladeira Duplex;Eletrodomésticos;2023-02-11;120.0;1
+139;Geladeira Duplex;Eletrodomésticos;2023-03-12;120.0;6
+140;Samsung Galaxy 8;Celulares;2023-03-13;120.0;7
+141;Geladeira Duplex;Eletrodomésticos;2023-03-14;120.0;7
+142;Sony Experia XA;Celulares;2023-04-15;120.0;8
+143;Geladeira Duplex;Eletrodomésticos;2023-04-16;120.0;8
+144;Geladeira Duplex;Eletrodomésticos;2023-05-17;120.0;9
+145;Geladeira Duplex;Eletrodomésticos;2023-05-18;120.0;8
+146;Geladeira Duplex;Eletrodomésticos;2023-05-19;120.0;7
+147;Geladeira Duplex;Eletrodomésticos;2023-06-20;120.0;2
+148;Samsung Galaxy 8;Celulares;2023-07-21;120.0;5
+149;Geladeira Duplex;Eletrodomésticos;2023-07-22;120.0;8
+150;Geladeira Duplex;Eletrodomésticos;2023-09-23;120.0;4
+151;Samsung Galaxy 8;Celulares;2023-10-24;120.0;2
+152;Geladeira Duplex;Eletrodomésticos;2023-11-25;120.0;2
+153;Geladeira Duplex;Eletrodomésticos;2023-11-26;120.0;6
+154;Geladeira Duplex;Eletrodomésticos;2023-11-27;120.0;7
+155;Samsung Galaxy 8;Celulares;2023-10-04;120.0;8
+156;Geladeira Duplex;Eletrodomésticos;2023-01-01;120.0;6
+157;Samsung Galaxy 8;Celulares;2023-02-02;120.0;4
+158;Samsung Galaxy 8;Celulares;2023-03-03;120.0;7
+159;Samsung Galaxy 8;Celulares;2023-04-04;120.0;4
+160;Samsung Galaxy 8;Celulares;2023-05-04;120.0;9
+161;Geladeira Duplex;Eletrodomésticos;2023-06-04;120.0;7
+162;Geladeira Duplex;Eletrodomésticos;2023-07-04;120.0;9
+163;Geladeira Duplex;Eletrodomésticos;2023-08-04;120.0;2
+164;Geladeira Duplex;Eletrodomésticos;2023-09-04;120.0;1
+165;Geladeira Duplex;Eletrodomésticos;2023-11-04;120.0;3
+166;Geladeira Duplex;Eletrodomésticos;2023-11-04;120.0;8
+167;Geladeira Duplex;Eletrodomésticos;2023-12-04;120.0;4
+168;Geladeira Duplex;Eletrodomésticos;2023-12-04;120.0;9
+169;Geladeira Duplex;Eletrodomésticos;2023-01-02;120.0;7
+170;Samsung Galaxy 8;Celulares;2023-02-02;120.0;4
+171;Samsung Galaxy 8;Celulares;2023-03-02;120.0;9
+172;Samsung Galaxy 8;Celulares;2023-04-02;120.0;8
+173;Samsung Galaxy 8;Celulares;2023-05-02;120.0;9
+174;Samsung Galaxy 8;Celulares;2023-06-02;120.0;3
+175;Samsung Galaxy 8;Celulares;2023-07-02;120.0;6
+176;Samsung Galaxy 8;Celulares;2023-08-02;120.0;3
+177;Samsung Galaxy 8;Celulares;2023-09-02;120.0;3
+178;Morotola Moto G5;Celulares;2023-10-02;120.0;7
+179;Morotola Moto G5;Celulares;2023-11-02;120.0;2
+180;Morotola Moto G5;Celulares;2023-12-02;120.0;5
+181;Morotola Moto G5;Celulares;2023-01-02;120.0;7
+182;Geladeira Duplex;Eletrodomésticos;2023-02-02;120.0;3
+183;Geladeira Duplex;Eletrodomésticos;2023-03-02;120.0;7
+184;Geladeira Duplex;Eletrodomésticos;2023-04-02;120.0;3
+185;Geladeira Duplex;Eletrodomésticos;2023-05-02;120.0;1
+186;Geladeira Duplex;Eletrodomésticos;2023-06-02;120.0;4
+187;Geladeira Duplex;Eletrodomésticos;2023-07-02;120.0;6
+188;Geladeira Duplex;Eletrodomésticos;2023-08-02;120.0;1
+189;Geladeira Duplex;Eletrodomésticos;2023-09-02;120.0;1
+190;Geladeira Duplex;Eletrodomésticos;2023-10-02;120.0;8
+191;Geladeira Duplex;Eletrodomésticos;2023-11-02;120.0;2
+192;Geladeira Duplex;Eletrodomésticos;2023-12-02;120.0;6
+193;Geladeira Duplex;Eletrodomésticos;2023-01-01;120.0;1
+194;Aspirador;Eletroportáteis;2023-02-01;120.0;6
+195;Aspirador;Eletroportáteis;2023-03-01;120.0;6
+196;Aspirador;Eletroportáteis;2023-04-01;120.0;3
+197;Aspirador;Eletroportáteis;2023-05-01;120.0;1
+198;Fritadeira;Eletroportáteis;2023-06-01;120.0;5
+199;Fritadeira;Eletroportáteis;2023-07-01;120.0;2
+200;Fritadeira;Eletroportáteis;2023-08-01;120.0;9
+201;Fritadeira;Eletroportáteis;2023-09-01;120.0;7
+202;Fritadeira;Eletroportáteis;2023-10-01;120.0;4
+203;Fritadeira;Eletroportáteis;2023-11-01;120.0;3
+204;Fritadeira;Eletroportáteis;2023-12-01;120.0;2
+205;Fritadeira;Eletroportáteis;2023-01-02;120.0;5
+206;Fritadeira;Eletroportáteis;2023-02-02;120.0;8
+207;Fritadeira;Eletroportáteis;2023-03-02;120.0;5
+208;Fritadeira;Eletroportáteis;2023-04-02;120.0;7
+209;Fritadeira;Eletroportáteis;2023-05-02;120.0;3
+210;Fritadeira;Eletroportáteis;2023-06-02;120.0;2
+211;Fritadeira;Eletroportáteis;2023-07-02;120.0;7
+212;Fritadeira;Eletroportáteis;2023-08-02;120.0;2
+213;Fritadeira;Eletroportáteis;2023-09-02;120.0;3
+214;Fritadeira;Eletroportáteis;2023-10-02;120.0;2
+215;Fritadeira;Eletroportáteis;2023-11-02;120.0;4
+216;Fritadeira;Eletroportáteis;2023-12-02;120.0;1
+217;Aspirador;Eletroportáteis;2023-01-01;120.0;6
+218;Forno-Micro-Ondas;Eletrodomésticos;2023-02-01;120.0;4
+219;Forno-Micro-Ondas;Eletrodomésticos;2023-03-01;120.0;1
+220;Grill;Eletrodomésticos;2023-04-01;120.0;8
+221;Grill;Eletrodomésticos;2023-05-01;120.0;3
+222;Grill;Eletrodomésticos;2023-06-01;120.0;4
+223;Grill;Eletrodomésticos;2023-07-01;120.0;2
+224;Grill;Eletrodomésticos;2023-08-01;120.0;6
+225;Forno-Micro-Ondas;Eletrodomésticos;2023-09-01;120.0;1
+226;Forno-Micro-Ondas;Eletrodomésticos;2023-10-01;120.0;7
+227;Forno-Micro-Ondas;Eletrodomésticos;2023-11-01;120.0;8
+228;Micro-Ondas;Eletrodomésticos;2023-12-01;120.0;8
+229;Micro-Ondas;Eletrodomésticos;2023-01-02;120.0;2
+230;Micro-Ondas;Eletrodomésticos;2023-02-02;120.0;9
+231;Micro-Ondas;Eletrodomésticos;2023-03-02;120.0;7
+232;Micro-Ondas;Eletrodomésticos;2023-04-02;120.0;1
+233;Micro-Ondas;Eletrodomésticos;2023-05-02;120.0;6
+234;Micro-Ondas;Eletrodomésticos;2023-06-02;120.0;1
+235;Micro-Ondas;Eletrodomésticos;2023-07-02;120.0;4
+236;Micro-Ondas;Eletrodomésticos;2023-08-02;120.0;2
+237;Micro-Ondas;Eletrodomésticos;2023-09-02;120.0;2
+238;Micro-Ondas;Eletrodomésticos;2023-10-02;120.0;8
+239;Micro-Ondas;Eletrodomésticos;2023-11-02;120.0;6
+240;Micro-Ondas;Eletrodomésticos;2023-12-02;120.0;6
+241;Micro-Ondas;Eletrodomésticos;2023-01-02;120.0;3
+242;Aspirador;Eletroportáteis;2023-02-02;120.0;1
+243;Ar Condicionado;Eletrodomésticos;2023-03-02;120.0;5
+244;Aspirador;Eletroportáteis;2023-04-02;120.0;8
+245;Ar Condicionado;Eletrodomésticos;2023-05-02;120.0;2
+246;Aspirador;Eletroportáteis;2023-06-02;120.0;4
+247;Ar Condicionado;Eletrodomésticos;2023-07-02;120.0;7
+248;Aspirador;Eletroportáteis;2023-08-02;120.0;9
+249;Ar Condicionado;Eletrodomésticos;2023-09-02;120.0;5
+250;Aspirador;Eletroportáteis;2023-10-02;120.0;3
+251;Ar Condicionado;Eletrodomésticos;2023-11-02;120.0;9
+252;Aspirador;Eletroportáteis;2023-12-02;120.0;6
+253;Aspirador;Eletroportáteis;2023-01-02;120.0;6
+254;Aspirador;Eletroportáteis;2023-02-02;120.0;6
+255;Aspirador;Eletroportáteis;2023-03-02;120.0;9
+256;Aspirador;Eletroportáteis;2023-04-02;120.0;3
+257;Aspirador;Eletroportáteis;2023-05-02;120.0;5
+258;Aspirador;Eletroportáteis;2023-06-02;120.0;8
+259;Aspirador;Eletroportáteis;2023-07-02;120.0;8
+260;Aspirador;Eletroportáteis;2023-08-02;120.0;9
+261;Aspirador;Eletroportáteis;2023-09-02;120.0;3
+262;Aspirador;Eletroportáteis;2023-10-02;120.0;3
+263;Aspirador;Eletroportáteis;2023-11-02;120.0;9
+264;Aspirador;Eletroportáteis;2023-12-02;120.0;5
+265;Aspirador;Eletroportáteis;2023-01-02;120.0;3
+266;Impressora Deskjet;Eletrônicos;2023-02-02;120.0;4
+267;Impressora Deskjet;Eletrônicos;2023-03-02;120.0;6
+268;Impressora Deskjet;Eletrônicos;2023-04-02;120.0;7
+269;Impressora Deskjet;Eletrônicos;2023-05-02;120.0;3
+270;Impressora Deskjet;Eletrônicos;2023-06-02;120.0;9
+271;Impressora Deskjet;Eletrônicos;2023-07-02;120.0;9
+272;Impressora Deskjet;Eletrônicos;2023-08-02;120.0;9
+273;Impressora Deskjet;Eletrônicos;2023-09-02;120.0;6
+274;Impressora Deskjet;Eletrônicos;2023-10-02;120.0;6
+275;Impressora Deskjet;Eletrônicos;2023-11-02;120.0;9
+276;Impressora Deskjet;Eletrônicos;2023-12-02;120.0;9
+277;Impressora Deskjet;Eletrônicos;2023-01-02;120.0;8
+278;Ventilador;Eletroportáteis;2023-02-02;120.0;4
+279;Ventilador;Eletroportáteis;2023-03-02;120.0;2
+280;Ventilador;Eletroportáteis;2023-04-02;120.0;7
+281;Ventilador;Eletroportáteis;2023-05-02;120.0;7
+282;Ventilador;Eletroportáteis;2023-06-02;120.0;4
+283;Ventilador;Eletroportáteis;2023-07-02;120.0;4
+284;Ventilador;Eletroportáteis;2023-08-02;120.0;7
+285;Ventilador;Eletroportáteis;2023-09-02;120.0;4
+286;Ventilador;Eletroportáteis;2023-10-02;120.0;7
+287;Ventilador;Eletroportáteis;2023-11-02;120.0;5
+288;Ventilador;Eletroportáteis;2023-12-02;120.0;5
+289;Ventilador;Eletroportáteis;2023-01-09;120.0;1
+290;Geladeira Duplex;Eletrodomésticos;2023-01-10;120.0;5
+291;Geladeira Duplex;Eletrodomésticos;2023-02-11;120.0;3
+292;Geladeira Duplex;Eletrodomésticos;2023-03-12;120.0;5
+293;Geladeira Duplex;Eletrodomésticos;2023-03-13;120.0;5
+294;Morotola Moto G5;Celulares;2023-03-14;120.0;3
+295;Geladeira Duplex;Eletrodomésticos;2023-04-15;120.0;3
+296;Morotola Moto G5;Celulares;2023-04-16;120.0;6
+297;Geladeira Duplex;Eletrodomésticos;2023-05-17;120.0;1
+298;Geladeira Duplex;Eletrodomésticos;2023-05-18;120.0;6
+299;Geladeira Duplex;Eletrodomésticos;2023-05-19;120.0;6
+300;Geladeira Duplex;Eletrodomésticos;2023-06-20;120.0;1
+301;Geladeira Duplex;Eletrodomésticos;2023-07-21;120.0;5
+302;Morotola Moto G5;Celulares;2023-07-22;120.0;6
+303;Geladeira Duplex;Eletrodomésticos;2023-09-23;120.0;8
+304;Geladeira Duplex;Eletrodomésticos;2023-10-24;120.0;4
+305;Morotola Moto G5;Celulares;2023-11-25;120.0;5
+306;Geladeira Duplex;Eletrodomésticos;2023-11-26;120.0;2
+307;Geladeira Duplex;Eletrodomésticos;2023-11-27;120.0;3
+308;Geladeira Duplex;Eletrodomésticos;2023-10-04;120.0;6
+309;Morotola Moto G5;Celulares;2023-10-04;120.0;3
+310;Geladeira Duplex;Eletrodomésticos;2023-01-01;120.0;2
+311;Morotola Moto G5;Celulares;2023-02-02;120.0;3
+312;Morotola Moto G5;Celulares;2023-03-03;120.0;3
+313;Morotola Moto G5;Celulares;2023-04-04;120.0;1
+314;Morotola Moto G5;Celulares;2023-05-04;120.0;4
+315;Geladeira Duplex;Eletrodomésticos;2023-06-04;120.0;1
+316;Geladeira Duplex;Eletrodomésticos;2023-07-04;120.0;8
+317;Geladeira Duplex;Eletrodomésticos;2023-08-04;120.0;1
+318;Geladeira Duplex;Eletrodomésticos;2023-09-04;120.0;7
+319;Geladeira Duplex;Eletrodomésticos;2023-11-04;120.0;1
+320;Geladeira Duplex;Eletrodomésticos;2023-11-04;120.0;1
+321;Geladeira Duplex;Eletrodomésticos;2023-12-04;120.0;9
+322;Geladeira Duplex;Eletrodomésticos;2023-12-04;120.0;9
+323;Geladeira Duplex;Eletrodomésticos;2023-01-02;120.0;6
+324;Morotola Moto G5;Celulares;2023-02-02;120.0;8
+325;Morotola Moto G5;Celulares;2023-03-02;120.0;1
+326;Morotola Moto G5;Celulares;2023-04-02;120.0;5
+327;Morotola Moto G5;Celulares;2023-05-02;120.0;1
+328;Morotola Moto G5;Celulares;2023-06-02;120.0;9
+329;Morotola Moto G5;Celulares;2023-07-02;120.0;9
+330;Morotola Moto G5;Celulares;2023-08-02;120.0;9
+331;Morotola Moto G5;Celulares;2023-09-02;120.0;2
+332;Morotola Moto G5;Celulares;2023-10-02;120.0;5
+333;Morotola Moto G5;Celulares;2023-11-02;120.0;1
+334;Morotola Moto G5;Celulares;2023-12-02;120.0;6
+335;Morotola Moto G5;Celulares;2023-01-02;120.0;2
+336;Geladeira Duplex;Eletrodomésticos;2023-02-02;120.0;9
+337;Geladeira Duplex;Eletrodomésticos;2023-03-02;120.0;5
+338;Geladeira Duplex;Eletrodomésticos;2023-04-02;120.0;3
+339;Geladeira Duplex;Eletrodomésticos;2023-05-02;120.0;7
+340;Geladeira Duplex;Eletrodomésticos;2023-06-02;120.0;7
+341;Geladeira Duplex;Eletrodomésticos;2023-07-02;120.0;9
+342;Geladeira Duplex;Eletrodomésticos;2023-08-02;120.0;8
+343;Geladeira Duplex;Eletrodomésticos;2023-09-02;120.0;4
+344;Geladeira Duplex;Eletrodomésticos;2023-10-02;120.0;2
+345;Geladeira Duplex;Eletrodomésticos;2023-11-02;120.0;5
+346;Geladeira Duplex;Eletrodomésticos;2023-12-02;120.0;2
+347;Geladeira Duplex;Eletrodomésticos;2023-01-01;120.0;2
+348;Aspirador;Eletroportáteis;2023-02-01;120.0;2
+349;Aspirador;Eletroportáteis;2023-03-01;120.0;4
+350;Aspirador;Eletroportáteis;2023-04-01;120.0;6
+351;Aspirador;Eletroportáteis;2023-05-01;120.0;5
+352;Aspirador;Eletroportáteis;2023-06-01;120.0;5
+353;Aspirador;Eletroportáteis;2023-07-01;120.0;6
+354;Aspirador;Eletroportáteis;2023-08-01;120.0;6
+355;Aspirador;Eletroportáteis;2023-09-01;120.0;3
+356;Aspirador;Eletroportáteis;2023-10-01;120.0;8
+357;Aspirador;Eletroportáteis;2023-11-01;120.0;9
+358;Aspirador;Eletroportáteis;2023-12-01;120.0;4
+359;Aspirador;Eletroportáteis;2023-01-02;120.0;7
+360;Aspirador;Eletroportáteis;2023-02-02;120.0;4
+361;Aspirador;Eletroportáteis;2023-03-02;120.0;7
+362;Aspirador;Eletroportáteis;2023-04-02;120.0;3
+363;Aspirador;Eletroportáteis;2023-05-02;120.0;5
+364;Aspirador;Eletroportáteis;2023-06-02;120.0;7
+365;Aspirador;Eletroportáteis;2023-07-02;120.0;3
+366;Aspirador;Eletroportáteis;2023-08-02;120.0;4
+367;Processador de Alimentos;Eletroportáteis;2023-09-02;120.0;5
+368;Processador de Alimentos;Eletroportáteis;2023-10-02;120.0;5
+369;Processador de Alimentos;Eletroportáteis;2023-11-02;120.0;5
+370;Processador de Alimentos;Eletroportáteis;2023-12-02;120.0;1
+371;Processador de Alimentos;Eletroportáteis;2023-01-01;120.0;9
+372;Micro-Ondas;Eletrodomésticos;2023-02-01;120.0;6
+373;Micro-Ondas;Eletrodomésticos;2023-03-01;120.0;9
+374;Micro-Ondas;Eletrodomésticos;2023-04-01;120.0;7
+375;Micro-Ondas;Eletrodomésticos;2023-05-01;120.0;9
+376;Micro-Ondas;Eletrodomésticos;2023-06-01;120.0;5
+377;Micro-Ondas;Eletrodomésticos;2023-07-01;120.0;4
+378;Micro-Ondas;Eletrodomésticos;2023-08-01;120.0;7
+379;Micro-Ondas;Eletrodomésticos;2023-09-01;120.0;8
+380;Micro-Ondas;Eletrodomésticos;2023-10-01;120.0;4
+381;Micro-Ondas;Eletrodomésticos;2023-11-01;120.0;9
+382;Micro-Ondas;Eletrodomésticos;2023-12-01;120.0;2
+383;Micro-Ondas;Eletrodomésticos;2023-01-02;120.0;6
+384;Micro-Ondas;Eletrodomésticos;2023-02-02;120.0;5
+385;Micro-Ondas;Eletrodomésticos;2023-03-02;120.0;9
+386;Micro-Ondas;Eletrodomésticos;2023-04-02;120.0;8
+387;Micro-Ondas;Eletrodomésticos;2023-05-02;120.0;3
+388;Micro-Ondas;Eletrodomésticos;2023-06-02;120.0;2
+389;Micro-Ondas;Eletrodomésticos;2023-07-02;120.0;2
+390;Micro-Ondas;Eletrodomésticos;2023-08-02;120.0;9
+391;Micro-Ondas;Eletrodomésticos;2023-09-02;120.0;8
+392;Micro-Ondas;Eletrodomésticos;2023-10-02;120.0;2
+393;Micro-Ondas;Eletrodomésticos;2023-11-02;120.0;1
+394;Micro-Ondas;Eletrodomésticos;2023-12-02;120.0;5
+395;Micro-Ondas;Eletrodomésticos;2023-02-02;120.0;3
+396;Micro-Ondas;Eletrodomésticos;2023-04-02;120.0;2
+397;Micro-Ondas;Eletrodomésticos;2023-05-02;120.0;6
+398;Micro-Ondas;Eletrodomésticos;2023-06-02;120.0;4
+399;Micro-Ondas;Eletrodomésticos;2023-07-02;120.0;8
+400;Processador de Alimentos;Eletroportáteis;2023-08-02;120.0;1
+401;Ar Condicionado;Eletrodomésticos;2023-09-02;120.0;9
+402;Processador de Alimentos;Eletroportáteis;2023-10-02;120.0;9
+403;Ar Condicionado;Eletrodomésticos;2023-11-02;120.0;6
+404;Processador de Alimentos;Eletroportáteis;2023-12-02;120.0;9
+405;Processador de Alimentos;Eletroportáteis;2023-01-02;120.0;8
+406;Processador de Alimentos;Eletroportáteis;2023-02-02;120.0;9
+407;Processador de Alimentos;Eletroportáteis;2023-03-02;120.0;5
+408;Processador de Alimentos;Eletroportáteis;2023-04-02;120.0;9
+409;Processador de Alimentos;Eletroportáteis;2023-05-02;120.0;6
+410;Liquidificador;Eletroportáteis;2023-06-02;120.0;9
+411;Liquidificador;Eletroportáteis;2023-07-02;120.0;7
+412;Liquidificador;Eletroportáteis;2023-08-02;120.0;9
+413;Liquidificador;Eletroportáteis;2023-09-02;120.0;6
+414;Liquidificador;Eletroportáteis;2023-10-02;120.0;3
+415;Liquidificador;Eletroportáteis;2023-11-02;120.0;3
+416;Liquidificador;Eletroportáteis;2023-12-02;120.0;7
+417;Liquidificador;Eletroportáteis;2023-01-02;120.0;6
+418;Impressora Deskjet;Eletrônicos;2023-02-02;120.0;2
+419;Impressora Deskjet;Eletrônicos;2023-03-02;120.0;4
+420;Impressora Deskjet;Eletrônicos;2023-04-02;120.0;4
+421;Impressora Deskjet;Eletrônicos;2023-05-02;120.0;4
+422;Impressora Deskjet;Eletrônicos;2023-06-02;120.0;7
+423;Impressora Deskjet;Eletrônicos;2023-07-02;120.0;7
+424;Impressora Deskjet;Eletrônicos;2023-08-02;120.0;6
+425;Impressora Deskjet;Eletrônicos;2023-09-02;120.0;8
+426;Impressora Deskjet;Eletrônicos;2023-10-02;120.0;6
+427;Impressora Deskjet;Eletrônicos;2023-11-02;120.0;8
+428;Impressora Deskjet;Eletrônicos;2023-12-02;120.0;5
+429;Impressora Deskjet;Eletrônicos;2023-01-02;120.0;7
+430;Ventilador;Eletroportáteis;2023-02-02;120.0;8
+431;Ventilador;Eletroportáteis;2023-03-02;120.0;3
+432;Ventilador;Eletroportáteis;2023-05-02;120.0;3
+433;Ventilador;Eletroportáteis;2023-07-02;120.0;1
+434;Ventilador;Eletroportáteis;2023-08-02;120.0;6
+435;Ventilador;Eletroportáteis;2023-09-02;120.0;4
+436;Ventilador;Eletroportáteis;2023-10-02;120.0;6
+437;Ventilador;Eletroportáteis;2023-11-02;120.0;9
+438;Ventilador;Eletroportáteis;2023-12-02;120.0;2
+439;Ventilador;Eletroportáteis;2023-01-09;120.0;8
+440;Geladeira Duplex;Eletrodomésticos;2023-01-10;120.0;8
+441;Geladeira Duplex;Eletrodomésticos;2023-02-11;120.0;3
+442;Geladeira Duplex;Eletrodomésticos;2023-03-12;120.0;7
+443;Geladeira Duplex;Eletrodomésticos;2023-03-13;120.0;1
+444;Morotola Moto G5;Celulares;2023-03-14;120.0;2
+445;Geladeira Duplex;Eletrodomésticos;2023-04-15;120.0;1
+446;Morotola Moto G5;Celulares;2023-04-16;120.0;2
+447;Geladeira Duplex;Eletrodomésticos;2023-05-17;120.0;9
+448;Geladeira Duplex;Eletrodomésticos;2023-05-18;120.0;7
+449;Geladeira Duplex;Eletrodomésticos;2023-05-19;120.0;1
+450;Geladeira Duplex;Eletrodomésticos;2023-06-20;120.0;8
+451;Geladeira Duplex;Eletrodomésticos;2023-07-21;120.0;7
+452;Morotola Moto G5;Celulares;2023-07-22;120.0;3
+453;Geladeira Duplex;Eletrodomésticos;2023-09-23;120.0;7
+454;Geladeira Duplex;Eletrodomésticos;2023-10-24;120.0;6
+455;Morotola Moto G5;Celulares;2023-11-25;120.0;5
+456;Geladeira Duplex;Eletrodomésticos;2023-11-26;120.0;7
+457;Geladeira Duplex;Eletrodomésticos;2023-11-27;120.0;3
